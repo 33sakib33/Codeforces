@@ -129,6 +129,23 @@
     ],
     "timestamp": "Dec/17/2020 06:48"
   },
+  "CF81170033": {
+    "contest_id": 808,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/808/B.cpp",
+    "problem_index": "B",
+    "problem_name": "Average Sleep Time",
+    "problem_url": "https://codeforces.com/contest/808/problem/B",
+    "submission_id": "CF81170033",
+    "submission_url": "https://codeforces.com/contest/808/submission/81170033",
+    "tags": [
+      "data structures",
+      "implementation",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "May/24/2020 17:19"
+  },
   "CF81170140": {
     "contest_id": 1352,
     "language": "GNU C++17 (64)",
