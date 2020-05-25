@@ -129,6 +129,22 @@
     ],
     "timestamp": "Dec/17/2020 06:48"
   },
+  "CF81426005": {
+    "contest_id": 707,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/707/C.cpp",
+    "problem_index": "C",
+    "problem_name": "Pythagorean Triples",
+    "problem_url": "https://codeforces.com/contest/707/problem/C",
+    "submission_id": "CF81426005",
+    "submission_url": "https://codeforces.com/contest/707/submission/81426005",
+    "tags": [
+      "math",
+      "number theory",
+      "*1500"
+    ],
+    "timestamp": "May/26/2020 05:58"
+  },
   "CF81635452": {
     "contest_id": 1338,
     "language": "GNU C++17 (64)",
