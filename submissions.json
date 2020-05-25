@@ -129,6 +129,21 @@
     ],
     "timestamp": "Dec/17/2020 06:48"
   },
+  "CF81338332": {
+    "contest_id": 1315,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/1315/C.cpp",
+    "problem_index": "C",
+    "problem_name": "Restoring Permutation",
+    "problem_url": "https://codeforces.com/contest/1315/problem/C",
+    "submission_id": "CF81338332",
+    "submission_url": "https://codeforces.com/contest/1315/submission/81338332",
+    "tags": [
+      "greedy",
+      "*1200"
+    ],
+    "timestamp": "May/25/2020 06:42"
+  },
   "CF81426005": {
     "contest_id": 707,
     "language": "GNU C++17 (64)",
