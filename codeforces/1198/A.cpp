@@ -1,13 +1,12 @@
 #include<bits/stdc++.h>
 using namespace std;
 #define ll long long
-#define flash  ios_base::sync_with_stdio(false); cin.tie(NULL);
 int main(){
-    flash;
     ll n,I;
     cin>>n>>I;
     vector<ll> a(n+1,0);
     vector<ll> b(n+1,0);
+    set<ll> s;
     for(int i=0;i<n;i++){
         cin>>a[i];
         b[i]=a[i];
@@ -20,10 +19,12 @@ int main(){
         }
         b[i]=c1;
     }
+ 
     ll bit= (8*I)/n;
     ll j=1;
     ll  sum1=0;
     ll ans=0;
+ 
     for(ll i=1;i<n+1;i++){
           sum1=b[i]-b[j]+1;
        double d=log2(sum1);
@@ -37,6 +38,8 @@ int main(){
          d=log2(sum1);
          d=ceil(d);
          d1=d;
+ 
+ 
        }
        ans=max(i-j+1,ans);
     }
