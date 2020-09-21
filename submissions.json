@@ -129,6 +129,24 @@
     ],
     "timestamp": "Dec/17/2020 06:48"
   },
+  "CF93407674": {
+    "contest_id": 1151,
+    "language": "GNU C++17",
+    "path": "codeforces/1151/B.cpp",
+    "problem_index": "B",
+    "problem_name": "Dima and a Bad XOR",
+    "problem_url": "https://codeforces.com/contest/1151/problem/B",
+    "submission_id": "CF93407674",
+    "submission_url": "https://codeforces.com/contest/1151/submission/93407674",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "constructive algorithms",
+      "dp",
+      "*1600"
+    ],
+    "timestamp": "Sep/21/2020 19:11"
+  },
   "CF93448589": {
     "contest_id": 1140,
     "language": "GNU C++17",
