@@ -129,6 +129,22 @@
     ],
     "timestamp": "Dec/17/2020 06:48"
   },
+  "CF96823273": {
+    "contest_id": 1436,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/1436/C.cpp",
+    "problem_index": "C",
+    "problem_name": "Binary Search",
+    "problem_url": "https://codeforces.com/contest/1436/problem/C",
+    "submission_id": "CF96823273",
+    "submission_url": "https://codeforces.com/contest/1436/submission/96823273",
+    "tags": [
+      "binary search",
+      "combinatorics",
+      "*1500"
+    ],
+    "timestamp": "Oct/27/2020 09:50"
+  },
   "CF96850201": {
     "contest_id": 1436,
     "language": "GNU C++17 (64)",
