@@ -129,6 +129,25 @@
     ],
     "timestamp": "Dec/17/2020 06:48"
   },
+  "CF96850201": {
+    "contest_id": 1436,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/1436/D.cpp",
+    "problem_index": "D",
+    "problem_name": "Bandit in a City",
+    "problem_url": "https://codeforces.com/contest/1436/problem/D",
+    "submission_id": "CF96850201",
+    "submission_url": "https://codeforces.com/contest/1436/submission/96850201",
+    "tags": [
+      "binary search",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "trees",
+      "*1900"
+    ],
+    "timestamp": "Oct/27/2020 17:17"
+  },
   "CF97526052": {
     "contest_id": 1443,
     "language": "GNU C++17 (64)",
