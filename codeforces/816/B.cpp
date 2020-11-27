@@ -94,21 +94,15 @@ int main(){
  
  for(int i=min1+1;i<=max1;i++){
  	arr[i]+=arr[i-1];
- }  /*for(int i=min1;i<=max1;i++){
+ }
+  /*for(int i=min1;i<=max1;i++){
  	cout<<arr[i]<<" ";
  }*/
- vll carr(200007,0);
- for(int i=min1;i<=max1+9;i++){
- 	if(arr[i]>=k)carr[i]=1;
- }
-  for(int i=1;i<=200000;i++){
- 	carr[i]+=carr[i-1];
- }
-  
+  build(1,1,max1+9);
   for(int i=0;i<q;i++){
   	ll ql,qr;
   	cin>>ql>>qr;
-  	ll ans=carr[qr]-carr[ql-1];
+  	ll ans=query(1,1,max1+9,ql,qr);
   	cout<<ans<<endl;
   }
  return 0;
