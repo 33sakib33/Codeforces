@@ -1,4 +1,20 @@
 {
+  "CF100409021": {
+    "contest_id": 1295,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/1295/D.cpp",
+    "problem_index": "D",
+    "problem_name": "Same GCDs",
+    "problem_url": "https://codeforces.com/contest/1295/problem/D",
+    "submission_id": "CF100409021",
+    "submission_url": "https://codeforces.com/contest/1295/submission/100409021",
+    "tags": [
+      "math",
+      "number theory",
+      "*1800"
+    ],
+    "timestamp": "Dec/05/2020 06:55"
+  },
   "CF100409937": {
     "contest_id": 327,
     "language": "GNU C++17 (64)",
