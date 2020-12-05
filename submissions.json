@@ -1,4 +1,20 @@
 {
+  "CF100409937": {
+    "contest_id": 327,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/327/C.cpp",
+    "problem_index": "C",
+    "problem_name": "Magic Five",
+    "problem_url": "https://codeforces.com/contest/327/problem/C",
+    "submission_id": "CF100409937",
+    "submission_url": "https://codeforces.com/contest/327/submission/100409937",
+    "tags": [
+      "combinatorics",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Dec/05/2020 07:38"
+  },
   "CF100526177": {
     "contest_id": 1450,
     "language": "GNU C++17 (64)",
