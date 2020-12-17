@@ -12,4 +12,4 @@ A repository to keep track of problem solving practise, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-{submission_placeholder}
+1 | [B - Nearest Fraction](https://codeforces.com/contest/281/problem/B) | [GNU C++17 (64)](./codeforces/281/B.cpp) | `brute force` `implementation` `two pointers` `*1700` | Dec/17/2020 06:48 | 
